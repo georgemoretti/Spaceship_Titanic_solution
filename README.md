@@ -1,7 +1,7 @@
 # Spaceship_Titanic_solution
 
 ## Kaggle Competition | Spaceship Titanic
-https://www.kaggle.com/competitions/spaceship-titanic/overview/description
+https://www.kaggle.com/competitions/spaceship-titanic
 
 ## Обработка данных
 - Импорт данных с помощью библиотеки Pandas
